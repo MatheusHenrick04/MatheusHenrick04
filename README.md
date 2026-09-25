@@ -17,11 +17,14 @@ Desenvolvedor em formação apaixonado por resolver problemas através de códig
 
 ### 🛠️ Stacks & Ferramentas
 
-**Linguagens & Frameworks:**
-- `Java` | `JavaScript (ES6+)` | `TypeScript` | `Angular` | `Node.js` | `HTML5 / CSS3`
+**Front-end:**
+- `HTML5` | `CSS3` | `JavaScript (ES6+)` | `TypeScript` | `Angular`
 
-**Bancos de Dados & Ferramentas:**
-- `MySQL` | `Git` | `GitHub` | `VS Code` | `MySQL Workbench`
+**Back-end & Banco de Dados:**
+- `Java` | `Node.js` | `MySQL`
+
+**Ferramentas & Versionamento:**
+- `Git` | `GitHub` | `VS Code` | `MySQL Workbench`
 
 ---
 
