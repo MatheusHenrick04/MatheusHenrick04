@@ -39,3 +39,9 @@ Desenvolvedor em formação apaixonado por resolver problemas através de códig
 ### 📬 Vamos Conectar?
 
 - 📁 **GitHub:** [github.com/MatheusHenrick04](https://github.com/MatheusHenrick04)
+
+---
+
+- ### 🐍 Minhas Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/MatheusHenrick04/MatheusHenrick04/output/github-contribution-grid-snake.svg)
