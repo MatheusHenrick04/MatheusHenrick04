@@ -42,7 +42,7 @@ Desenvolvedor em formação apaixonado por resolver problemas através de códig
 
 ---
 
-- ### 🐍 Minhas Contribuições
+- ### 🐍 Histórico de Commits
 
 ![Snake animation](https://raw.githubusercontent.com/MatheusHenrick04/MatheusHenrick04/output/github-contribution-grid-snake-dark.svg)
 
