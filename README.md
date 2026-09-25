@@ -1,17 +1,19 @@
 # 👋 Olá, eu sou o Matheus Henrick!
 
+> *"A tecnologia move o mundo, mas a lógica e a criatividade constroem as soluções."*
+
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💼 **Foco profissional:** Desenvolvimento de Software / Estágio em Tecnologia  
+💼 **Perfil:** Desenvolvimento de Software (Java, JavaScript, TypeScript, Angular, Node.js)  
 📍 **Localização:** São Paulo, Brasil
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Desenvolvedor em formação, apaixonado por resolver problemas através de código limpo, estruturas de dados e boas práticas. Tenho foco no ecossistema **Java** para desenvolvimento backend e lógica de sistemas, além de experiência com **JavaScript**, **TypeScript**, **Angular** e **Node.js** para aplicações web e automações.
+Desenvolvedor em formação apaixonado por resolver problemas através de código limpo, estruturas de dados e boas práticas. Tenho foco na criação de interfaces modernas e reativas no **Front-end** com **Angular**, **TypeScript** e **JavaScript**, alinhado à construção de sistemas e APIs eficientes no **Back-end** com **Java** e **Node.js** integrados ao **MySQL**.
 
-- 🔭 Atualmente a aprofundar conhecimentos em **Java, POO, Angular e MySQL**.
-- 🎯 Em busca de uma oportunidade de **Estágio em Tecnologia (XP Inc.)**.
-- ⚡ **Destaques:** Criação de aplicações CRUD, automações, algoritmos de matrizes 2D e lógica de jogos em terminal.
+- 🎨 **Interesse:** Desenvolvimento Web, Front-end (UI/Componentização) e Lógica de Sistemas.
+- 🎯 **Objetivo:** Oportunidade de **Estágio em Tecnologia**.
+- ⚡ **Destaques:** Criação de aplicações CRUD reativas, jogos em terminal (Java), automações e controle de versão com Git.
 
 ---
 
