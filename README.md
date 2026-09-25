@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Matheus Henrick!
 
-> *"A tecnologia move o mundo, mas a lógica e a criatividade constroem as soluções."*
-
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💼 **Perfil:** Desenvolvimento de Software (Java, JavaScript, TypeScript, Angular, Node.js)  
 📍 **Localização:** São Paulo, Brasil
