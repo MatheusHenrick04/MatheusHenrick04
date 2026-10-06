@@ -19,7 +19,7 @@ jobs:
           github_user_name: MatheusHenrick04
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
